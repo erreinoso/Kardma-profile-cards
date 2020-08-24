@@ -1,6 +1,7 @@
-## Kard Ma Profile Cards 🌻
+## Kard Ma Profile Cards 🧘🏻
 
-It is an app that allows the user to create a digital business card with their full name, position and links to their contact details and social network profiles.
+This is an app that allows the user to create a digital cards with their full name, position and links to their contact details and social network profiles.
+
 The peculiarity of the application is that we worked with heritage code and migrate code from javascript to React.
 
 We are a team of five women from very different backgrounds that came together through Adalab Bootcamp in Madrid and this is our project.
@@ -9,7 +10,7 @@ We received the following design,
 
 ![screenshot of original landing ](https://github.com/erreinoso/Kardma-profile-cards/blob/master/readme-images/Cards-Original.PNG)
 
-but we felt we wanted to improve the project by adding a extra value: a meaningful design: Karma Profile Cards. Make some fun relation between KardMa and the yoga master Bette Calman.
+but we felt we wanted to improve the project by adding a extra value: a meaningful design: Karma Profile Cards. Make some funny conexion between KardMa, profile cards and the yoga master Bette Calman.
 
 ![screenshot of our design ](https://github.com/erreinoso/Kardma-profile-cards/blob/master/readme-images/Cards-App.PNG)
 
@@ -67,20 +68,22 @@ The application work through this steps:
 
 To install local dependencies, type:
 
+npm install --save prop-types
+npm run build
+npm run docs
+
 #### `npm install`
 
 Also, you need to install React Route and SASS:
 
 #### `npm install node-sass`
 
-In the project directory, type:
-
 #### `npm start`
 
 This runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-You can also create a docs folder by running #### `npm run docs`
+You can also create a docs folder by running #### `run build` and #### `npm run docs`
 
 ## Team 👋
 
