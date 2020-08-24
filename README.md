@@ -83,7 +83,7 @@ Also, you need to install React Route and SASS:
 This runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-You can also create a docs folder by running #### `run build` and #### `npm run docs`
+You can also create a docs folder by running **`run build`** and **`npm run docs`**
 
 ## Team 👋
 
